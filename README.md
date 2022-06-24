@@ -16,6 +16,7 @@
 - 😄 Pronouns: Anjana/ Buddy
 <!-- - ⚡ Fun fact:  -->
 
+
 <div id="badges">
   <a href="www.linkedin.com/in/anjana-pathirana">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,6 +28,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=AnjanaPathirana99&style=flat-square&color=blue" alt="Profile Views"/>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnjanaPathirana99&theme=highcontrast&show_icons=true&count_private=true)
