@@ -1,6 +1,8 @@
-### Hi there, I'm Anjana Pathirana 👋
+<div>
+<h2 style="text-align:center">Hi there, I'm Anjana Pathirana 👋</h2>
 
-- <p>&#129299A self-motivated, passionate, responsible undergraduate with the mindset of achieving goals. I love to seek interesting vast knowledge in the IT industry. </p> 
+  </div>
+- <p>&#129299 A self-motivated, passionate, responsible undergraduate with the mindset of achieving goals. I love to seek interesting vast knowledge in the IT industry. </p> 
 
 - 🔭 I’m currently learning React & Angular.
 
@@ -16,7 +18,7 @@
 - 😄 Pronouns: Anjana/ Buddy
 <!-- - ⚡ Fun fact:  -->
 
-
+#### Connect with me 
 <div id="badges">
   <a href="www.linkedin.com/in/anjana-pathirana">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
