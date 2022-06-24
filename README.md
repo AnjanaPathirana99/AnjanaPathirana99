@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on software projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java.
-- 📫 How to reach me: <a href = "anjanamadhushan44@gmail.com">
+- 📫 How to reach me: <a href = "anjanamadhushan44@gmail.com"></a>
 - 😄 Pronouns: Anjana/ Buddy
-- ⚡ Fun fact: 
+<!-- - ⚡ Fun fact:  -->
 
