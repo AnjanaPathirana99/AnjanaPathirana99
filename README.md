@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Undergraduate | Software Developer | Volunteer Teacher</h3>
   <h4 align="center">Welcome to my Official Github Profile !</h4>
-  <p align="center">Feel free to clone projects. <br> Contact me from <a href = "anjanamadhushan44@gmail.com">here</a> if you encount any problem.</p>
+  <p align="center">Feel free to clone projects. <br> </p>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnjanaPathirana99&style=flat-square&color=blue" alt="Profile Views"/>
@@ -24,7 +24,7 @@
 <!-- - 💬 Ask me about Java. -->
 - <p>&#129309 I’m currently open to software engineering internships. And <a href = "https://drive.google.com/file/d/1SDyWSdd1ltrcZAF4-1RVuWNIJM6lkc7v/view?usp=sharing">here </a>is my resume.</P>
 <!-- - 📫 How to reach me: [anjanamadhushan44@gmail.com](anjanamadhushan44@gmail.com) -->
-- 😄 Nicknames: Anjana/ Buddy
+<!-- - 😄 Nicknames: Anjana/ Buddy -->
 <!-- - ⚡ Fun fact:  -->
 <br>
 <li><h4>Connect with me... &#129308 &#129307</h4></li>
