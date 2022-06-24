@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently following B.Sc. (Hons.) in Information Technology in University of Moratuwa.
 
-- 👯 I’m looking to collaborate on software projects.
+- <p>&#129321 I’m looking to collaborate on software projects.</p>
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Java. -->
 - <p>&#129309 I’m currently open to software engineering internships. And <a href = "https://drive.google.com/file/d/1SDyWSdd1ltrcZAF4-1RVuWNIJM6lkc7v/view?usp=sharing">here </a>is my resume.</P>
