@@ -16,3 +16,5 @@
 - 😄 Pronouns: Anjana/ Buddy
 <!-- - ⚡ Fun fact:  -->
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AnjanaPathirana99&theme=highcontrast&show_icons=true&count_private=true)
