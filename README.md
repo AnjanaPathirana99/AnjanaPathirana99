@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Java.
 
-- 📫 How to reach me: [anjanamadhushan44@gmail.com](anjanamadhushan44@gmail.com)
+<!-- - 📫 How to reach me: [anjanamadhushan44@gmail.com](anjanamadhushan44@gmail.com) -->
 
 - 😄 Pronouns: Anjana/ Buddy
 <!-- - ⚡ Fun fact:  -->
