@@ -3,7 +3,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  <h3 align="center">Undergraduate | Software Developer | Volunteer Teacher</h3>
+  <h3 align="center">Undergraduate | Software Developer | Medium Writer</h3>
   <h4 align="center">Welcome to my Official Github Profile !</h4>
   <p align="center">Feel free to clone projects. <br> </p>
 </div>
@@ -31,6 +31,9 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/anjana-pathirana">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://medium.com/@anjanapathirana99">
+    <img src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Medium Badge"/>
   </a>
 </div>
 <br>
