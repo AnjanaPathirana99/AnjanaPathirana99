@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://medium.com/@anjanapathirana99">
-    <img src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Medium Badge"/>
+    <img src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png style=for-the-badge" alt="Medium Badge"/>
   </a>
 </div>
 <br>
