@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Undergraduate | Software Developer | Medium Writer</h3>
   <h4 align="center">Welcome to my Official Github Profile !</h4>
-  <p align="center">Feel free to clone projects. <br> </p>
+  <!p align="center">Feel free to clone projects. <br> </p>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnjanaPathirana99&style=flat-square&color=blue" alt="Profile Views"/>
