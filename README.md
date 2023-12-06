@@ -22,7 +22,7 @@
 - <p>&#129321 I’m looking to collaborate on software projects.</p>
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Java. -->
-- <p>&#129309 I’m currently open for Software Engineering roles or AI Engineer Internships. And <a href = "https://drive.google.com/file/d/1MhA1BB4I3jbXAGFCEHjKqrHhzDEFLclR/view?usp=sharing">here </a>is my resume.</P>
+- <p>&#129309 I’m currently open for Software Engineering roles or AI Engineer Internships. And <a href = "https://drive.google.com/file/d/1EG0bUerSJHoRPzWqAhCuCBmvTp-eI4Ln/view?usp=sharing">here </a>is my resume.</P>
 <!-- - 📫 How to reach me: [anjanamadhushan44@gmail.com](anjanamadhushan44@gmail.com) -->
 <!-- - 😄 Nicknames: Anjana/ Buddy -->
 <!-- - ⚡ Fun fact:  -->
