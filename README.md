@@ -3,7 +3,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  <h3 align="center">Undergraduate | Software Developer | Medium Writer</h3>
+  <h3 align="center">Undergraduate | Software Developer | Former Intern Software Engineer @Allion Technologies | Medium Writer</h3>
   <h4 align="center">Welcome to my Official Github Profile !</h4>
 <!--   <p align="center">Feel free to clone projects. <br> </p> -->
 </div>
