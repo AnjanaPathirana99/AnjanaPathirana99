@@ -3,7 +3,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  <h3 align="center">Undergraduate | Software Developer | Former Intern Software Engineer @Allion Technologies | Medium Writer</h3>
+  <h3 align="center">Software Engineer @Tribird | Former Intern Software Engineer @Allion Technologies | Bsc. (Hons) IT, UoM </h3>
   <h4 align="center">Welcome to my Official Github Profile !</h4>
 <!--   <p align="center">Feel free to clone projects. <br> </p> -->
 </div>
@@ -13,16 +13,16 @@
 <ul>
   <li><h4>Who am I ? &#128526</h4></li>
 
-- <p>&#129299 A self-motivated, passionate, responsible undergraduate with the mindset of achieving goals.</p> 
+- <p>&#129299 A self-motivated, passionate, responsible Software Engineer with the mindset of achieving goals.</p> 
 
 - <p>⚡ I love to seek interesting vast knowledge in the IT industry. </p> 
 
-- 🌱 I’m currently following B.Sc. (Hons.) in Information Technology in University of Moratuwa.
+- 🌱 I’m currently working as a Software Engineer @Tribird.
 
-- <p>&#129321 I’m looking to collaborate on software projects.</p>
+<!--- <p>&#129321 I’m looking to collaborate on software projects.</p>-->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Java. -->
-- <p>&#129309 I’m currently open for Software Engineering roles or AI Engineer Internships. And <a href = "https://drive.google.com/file/d/1EG0bUerSJHoRPzWqAhCuCBmvTp-eI4Ln/view?usp=sharing">here </a>is my resume.</P>
+<!---- <p>&#129309 I’m currently open for Software Engineering roles or AI Engineer Internships. And <a href = "https://drive.google.com/file/d/1EG0bUerSJHoRPzWqAhCuCBmvTp-eI4Ln/view?usp=sharing">here </a>is my resume.</P>-->
 <!-- - 📫 How to reach me: [anjanamadhushan44@gmail.com](anjanamadhushan44@gmail.com) -->
 <!-- - 😄 Nicknames: Anjana/ Buddy -->
 <!-- - ⚡ Fun fact:  -->
